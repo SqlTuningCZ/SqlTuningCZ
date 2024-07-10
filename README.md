@@ -1,3 +1,5 @@
+![Logo](readme.webp)
+
 # Hi there, I'm Jan Schustr 👋
 
 ## About Me
