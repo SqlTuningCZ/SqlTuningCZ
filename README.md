@@ -1,4 +1,4 @@
-![Logo](readme.webp)
+![Logo](images/readme.webp)
 
 # Hi there, I'm Jan Schustr 👋
 
